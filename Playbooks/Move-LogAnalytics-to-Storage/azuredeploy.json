@@ -302,7 +302,7 @@
                                     {
                                         "name": "EndDate",
                                         "type": "string",
-                                        "value": "@{formatDateTime(addDays(utcNow(), -88),'yyyy-MM-dd')}"
+                                        "value": "@{formatDateTime(addDays(utcNow(), -58),'yyyy-MM-dd')}"
                                     }
                                 ]
                             }
@@ -336,7 +336,7 @@
                                     {
                                         "name": "StartDate",
                                         "type": "string",
-                                        "value": "@{formatDateTime(addDays(utcNow(), -89),'yyyy-MM-dd')}"
+                                        "value": "@{formatDateTime(addDays(utcNow(), -59),'yyyy-MM-dd')}"
                                     }
                                 ]
                             }
